@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nehoray</h1>
 <h3 align="center">your go-to IT support professional with a passion for coding, especially in the realm of DevOps.</h3>
 <p></p>
-<p>I'm on an exciting journey of continuous learning, mastering DevOps tools, and creating innovative projects of my own. From troubleshooting tech issues to crafting solutions, I'm here to make technology work seamlessly.</p>
+<h4>I'm on an exciting journey of continuous learning, mastering DevOps tools, and creating innovative projects of my own. From troubleshooting tech issues to crafting solutions, I'm here to make technology work seamlessly.</h4>
 <p></p>
-<p>Join me as I explore the world of coding, DevOps, and tech innovation. Feel free to check out my projects, and let's collaborate to build something great together! Your feedback is invaluable.</p>
+<h4>Join me as I explore the world of coding, DevOps, and tech innovation. Feel free to check out my projects, and let's collaborate to build something great together! Your feedback is invaluable.</h4>
 <p></p>
 📫 How to reach me <b>contactnehoray@gmail.com</b>
 <p></p>
