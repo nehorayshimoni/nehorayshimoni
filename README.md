@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)]([https://nehoray.tech/])
+[![]()]([https://nehoray.tech/])
 
 ### Technologies
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
