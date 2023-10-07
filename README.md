@@ -5,6 +5,9 @@
 <p></p>
 <p>Join me as I explore the world of coding, DevOps, and tech innovation. Feel free to check out my projects, and let's collaborate to build something great together! Your feedback is invaluable.</p>
 <p></p>
+<p></p>
+<p></p>
+<p></p>
 - 📫 How to reach me **contactnehoray@gmail.com**
 <p></p>
 - 📝 I regularly write articles on **https://nehoray.tech/**
