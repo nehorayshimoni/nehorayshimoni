@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=0969DA&repeat=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Nehoray" alt="Typing SVG" /></a>
+<center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=50&pause=1000&color=0969DA&repeat=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Nehoray" alt="Typing SVG" /></a></center>
 <h3 align="center">your go-to IT support professional with a passion for coding, especially in the realm of DevOps.</h3>
 <p></p>
 <p>I'm on an exciting journey of continuous learning, mastering DevOps tools, and creating innovative projects of my own. From troubleshooting tech issues to crafting solutions, I'm here to make technology work seamlessly.</p>
