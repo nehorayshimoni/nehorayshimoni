@@ -1,12 +1,14 @@
-<h1 align="center">Hi 👋, I'm Nehoray Shimoni</h1>
-<h3 align="center">your go-to IT support professional with a deep passion for coding, especially in the realm of DevOps.</h3>
-
+<h1 align="center">Hi 👋, I'm Nehoray</h1>
+<h3 align="center">your go-to IT support professional with a passion for coding, especially in the realm of DevOps.</h3>
+<p></p>
+<h3 align="center">I'm on an exciting journey of continuous learning, mastering DevOps tools, and creating innovative projects of my own. From troubleshooting tech issues to crafting solutions, I'm here to make technology work seamlessly.</h3>
+<p></p>
+<h3 align="center">Join me as I explore the world of coding, DevOps, and tech innovation. Feel free to check out my projects, and let's collaborate to build something great together! Your feedback is invaluable.</h3>
+<p></p>
 - 📫 How to reach me **contactnehoray@gmail.com**
 
-- 🤝 I’m looking for help with **Networking Fundamentals • Computer Hardware • Customer Service • IT Operations • Software Troubleshooting**
-
 - 📝 I regularly write articles on **https://nehoray.tech/**
-
+<p></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nehorayshimoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nehorayshimoni" height="30" width="40" /></a>
