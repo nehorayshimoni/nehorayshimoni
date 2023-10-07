@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nehoray</h1>
-<p align="center">your go-to IT support professional with a passion for coding, especially in the realm of DevOps.</p>
+<h3 align="center">your go-to IT support professional with a passion for coding, especially in the realm of DevOps.</h3>
 <p></p>
 <p>I'm on an exciting journey of continuous learning, mastering DevOps tools, and creating innovative projects of my own. From troubleshooting tech issues to crafting solutions, I'm here to make technology work seamlessly.</p>
 <p></p>
