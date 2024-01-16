@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nehoray</h1>
-<h3 align="center">QA automation enthusiast, passionate about coding and crafting efficient testing solutions for seamless software quality</h3>
+<h3 align="center">QA automation enthusiast, passionate about coding and crafting efficient testing solutions</h3>
 <p></p>
 <p>I'm your go-to QA automation pro, passionate about coding and dedicated to mastering the latest tools in automation. Join me on this exciting journey of continuous learning, where I craft innovative testing solutions and troubleshoot with precision. Explore my projects, and let's collaborate to build something great together!</p>
 <p></p>
