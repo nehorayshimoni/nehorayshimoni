@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nehoray</h1>
-<h3 align="center">your go-to IT support professional with a passion for coding, especially in the realm of DevOps.</h3>
+<h3 align="center">QA automation enthusiast, passionate about coding and crafting efficient testing solutions for seamless software quality</h3>
 <p></p>
-<p>I'm on an exciting journey of continuous learning, mastering DevOps tools, and creating innovative projects of my own. From troubleshooting tech issues to crafting solutions, I'm here to make technology work seamlessly.</p>
-<p></p>
-<p>Join me as I explore the world of coding, DevOps, and tech innovation. Feel free to check out my projects, and let's collaborate to build something great together! Your feedback is invaluable.</p>
+<p>I'm your go-to QA automation pro, passionate about coding and dedicated to mastering the latest tools in automation. Join me on this exciting journey of continuous learning, where I craft innovative testing solutions and troubleshoot with precision. Explore my projects, and let's collaborate to build something great together!</p>
 <p></p>
 📫 How to reach me https://www.linkedin.com/in/nehorayshimoni/
 <p></p>
