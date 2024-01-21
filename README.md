@@ -8,7 +8,7 @@
 📝 I regularly write articles on <b></b>https://nehoray.tech</b>
 <p></p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages:</h3>
 <p align="left">
   <p align="left">
 
@@ -23,12 +23,9 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </a>
+
   
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-  </a>
-  
-<h3 align="left">Testing:</h3>
+<h3 align="left">Testing Tools:</h3>
 <p align="left">
 
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
